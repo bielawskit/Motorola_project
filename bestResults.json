@@ -1,0 +1,23 @@
+{
+  "easy": [
+    {
+      "userName": "stefan",
+      "bestTime": 3
+    },
+    {
+      "userName": "franek",
+      "bestTime": 1
+    }
+  ],
+  "hard": [
+    {
+      "userName": "jonny",
+      "bestTime": 12
+    },
+    {
+      "userName": "roman",
+      "bestTime": 10
+    }
+  ]
+}
+
